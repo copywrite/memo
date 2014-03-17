@@ -40,7 +40,7 @@
 
 * 命令行测试maven是否安装成功`mvn --version`
 
-* 添加淘宝的repo，下载此(https://raw.github.com/tiemei/opennotes/master/maven/settings.xml)放置到目录`C:\Users\你的用户名\.m2`
+* 添加淘宝的repo，下载[settings.xml](https://raw.github.com/tiemei/opennotes/master/maven/settings.xml)放置到目录`C:\Users\你的用户名\.m2`
 * 所有的maven插件会下载到`D:\.m2\repo`，在'<localRepository>$HOME/.m2/repo</localRepository>'进行设置
 
 ###安装IntelliJ IDEA
