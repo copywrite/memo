@@ -44,4 +44,4 @@
 * 所有的maven插件会下载到`D:\.m2\repo`，在'<localRepository>$HOME/.m2/repo</localRepository>'进行设置
 
 ###安装IntelliJ IDEA
-* 当前下载版本13.0.2为 (http://download-ln.jetbrains.com/idea/ideaIC-13.0.2.exe)
+* 当前下载版本为[13.0.2](http://download-ln.jetbrains.com/idea/ideaIC-13.0.2.exe)
